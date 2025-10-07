@@ -17,5 +17,6 @@ for(let key in obj){
 }
   } else{
   arrValues.push(obj[key])}
-    console.log(arrValues);
 }
+
+console.log(arrValues);
